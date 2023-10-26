@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Manas22-creator
 - 👀 I’m interested in working
 - 🌱 I’m currently learning Python and full-stack web development
-- 💞️ I’m looking to collaborate on a project that gives some money and skills for future 
+- 💞️I am seeking a collaborative project that can impart knowledge and skills essential for future improvement. 
 - 📫 How to reach me 
 email:-pandeymanas220204@gmail.com
 <!---
