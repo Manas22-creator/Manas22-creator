@@ -1,10 +1,68 @@
-- 👋 Hi, I’m @Manas22-creator
-- 👀 I’m interested in working
-- 🌱 I’m currently learning Python and full-stack web development
-- 💞️I am seeking a collaborative project that can impart knowledge and skills essential for future improvement. 
-- 📫 How to reach me 
-email:-pandeymanas220204+github@gmail.com
-<!---
-Manas22-creator/Manas22-creator is a ✨ particular ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I'm Manas Pandey
+
+💻 Web Developer | 🌐 Full Stack Enthusiast | 🎓 BSc IT Graduate with 8.3 CGPA
+
+A dedicated and detail-oriented developer with a strong commitment to creating impactful and user-friendly web applications. Expertise lies in the development of responsive websites utilizing HTML, CSS, and JavaScript, as well as backend technologies such as Node.js and MongoDB. Recently graduated with a cumulative grade point average of 8.3 and currently advancing skills in React.js and full-stack development.
+
+---
+
+🚀 Tech Stack
+
+**Frontend:**  
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)  
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+
+**Backend & DB:**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)  
+![Express](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)  
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat)
+
+**Tools:**  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)  
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)  
+![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=flat)
+
+---
+
+📂 Projects
+
+Here are a few of my featured projects:
+
+### 🎵 [Hind Ke Sitara – A Music Web App](https://hindkesitara.netlify.app/)
+
+> A full-stack music application that allows users to play songs and request songs.
+> **Tech:** HTML, CSS, JavaScript, Node.js, MongoDB
+> ✅ Login/Signup | ✅ Music streaming | ✅ Playlist
+
+---
+
+### 🛋️ [Mata Shree Furniture – E-commerce Website](https://matashree.netlify.app/)
+
+> A responsive furniture shopping platform built to showcase and sell furniture items with product inquiry and an admin dashboard.
+> **Tech:** HTML, CSS, JavaScript, Node.js, MongoDB
+> ✅ Responsive Design | ✅ Admin Panel | ✅ Product APIs
+
+---
+
+## 📊 Achievements & Highlights
+
+* 🎓 Graduated BSc IT with **8.3 CGPA** from a recognized university
+* 🛠️ Built 5+ personal and client projects using the MERN stack and core web technologies
+* 🧠 Continuously learning new tools and frameworks to stay industry-relevant
+* 💬 Known for clear communication, strong problem-solving, and self-discipline
+* 🌐 Deployed portfolio and apps live using Netlify, Render, and Vercel
+
+---
+
+📫 Contact Me
+
+* 📧 Email: [pandeymanas220204@gmail.com](mailto:pandeymanas220204@gmail.com)
+* 🔗 Portfolio: [https://manas22portfolio.netlify.app/](https://manas22portfolio.netlify.app/)
+* 💼 LinkedIn: [https://www.linkedin.com/in/manas-pandey-24684a255/](https://www.linkedin.com/in/manas-pandey-24684a255/)
+
+---
+
+Thanks for visiting my GitHub profile! Feel free to explore my repositories, contribute, or connect with me.
