@@ -31,7 +31,7 @@ A dedicated and detail-oriented developer with a strong commitment to creating i
 
 Here are a few of my featured projects:
 
-### 🎵 [Hind Ke Sitara – A Music Web App](https://hindkesitara.netlify.app/)
+### 🎵 [Hind Ke Sitara – A Music Web App](https://hindmusic.netlify.app/)
 
 > A full-stack music application that allows users to play songs and request songs.
 > **Tech:** HTML, CSS, JavaScript, Node.js, MongoDB
