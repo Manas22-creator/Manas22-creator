@@ -31,21 +31,27 @@ A dedicated and detail-oriented developer with a strong commitment to creating i
 
 Here are a few of my featured projects:
 
-### 🎵 [Hind Ke Sitara – A Music Web App](https://hindmusic.netlify.app/)
+🎵 [Hind Ke Sitara – A Music Web App](https://hindmusic.netlify.app/)
 
 > A full-stack music application that allows users to play songs and request songs.
-> **Tech:** HTML, CSS, JavaScript, Node.js, MongoDB
+> Tech: HTML, CSS, JavaScript, Node.js, MongoDB
 > ✅ Login/Signup | ✅ Music streaming | ✅ Playlist
 
 ---
 
-### 🛋️ [Mata Shree Furniture – E-commerce Website](https://matashree.netlify.app/)
+🛋️ [Mata Shree Furniture – E-commerce Website](https://matashree.netlify.app/)
 
-> A responsive furniture shopping platform built to showcase and sell furniture items with product inquiry and an admin dashboard.
-> **Tech:** HTML, CSS, JavaScript, Node.js, MongoDB
-> ✅ Responsive Design | ✅ Admin Panel | ✅ Product APIs
+>A static, mobile-friendly furniture site with product category filtering, modern design, and form-based inquiries — built to reflect real-world e-commerce structure.
+>Tech: HTML, CSS, JavaScript
+>✅ Category Filters | ✅ Mobile-Responsive | ✅ Inquiry Form
 
 ---
+
+⚖️ [LegalAdvocate – React-Based Legal Website](https://legaljustice.netlify.app/)
+>A static legal services site built in React with dynamic filtering, component reuse, and client-side navigation — optimized for fast loading with Vite.
+>Tech: React, React Router, Vite, HTML, CSS, JavaScript
+>✅ Fast Performance |✅ Reusable Components | ✅ Responsive UI
+
 
 ## 📊 Achievements & Highlights
 
