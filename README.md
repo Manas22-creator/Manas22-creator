@@ -1,8 +1,8 @@
 👋 Hi, I'm Manas Pandey
 
-💻 Web Developer | 🌐 Full Stack Enthusiast | 🎓 BSc IT Graduate with 8.3 CGPA
+💻 Web Developer | 🌐 Full Stack Developer | 🎓 BSc IT Graduate
 
-A dedicated and detail-oriented developer with a strong commitment to creating impactful and user-friendly web applications. Expertise lies in the development of responsive websites utilizing HTML, CSS, and JavaScript, as well as backend technologies such as Node.js and MongoDB. Recently graduated with a cumulative grade point average of 8.3 and currently advancing skills in React.js and full-stack development.
+I build responsive, user-focused websites and full-stack web applications using modern web technologies. My experience includes personal projects, internship work, and real-world freelance projects for clients across insurance, legal services, education, and e-commerce.
 
 ---
 
@@ -29,29 +29,47 @@ A dedicated and detail-oriented developer with a strong commitment to creating i
 
 📂 Projects
 
-Here are a few of my featured projects:
+A selection of my real-world freelance client projects and personal web applications.
 
-🎵 [Hind Ke Sitara – A Music Web App](https://hindmusic.netlify.app/)
+🎵 [Hind Ke Sitara – A Music Web App]
 
-> A full-stack music application that allows users to play songs and request songs.
-> Tech: HTML, CSS, JavaScript, Node.js, MongoDB
-> ✅ Login/Signup | ✅ Music streaming | ✅ Playlist
+🎵 Hind Ke Sitara – Music Web App
 
----
+A full-stack music application that allows users to play and request songs, with authentication and music management functionality.
 
-🛋️ [Mata Shree Furniture – E-commerce Website](https://matashree.netlify.app/)
+Tech: HTML, CSS, JavaScript, Node.js, MongoDB
 
->A static, mobile-friendly furniture site with product category filtering, modern design, and form-based inquiries — built to reflect real-world e-commerce structure.
->Tech: HTML, CSS, JavaScript
->✅ Category Filters | ✅ Mobile-Responsive | ✅ Inquiry Form
+✅ Login/Signup | ✅ Music Streaming | ✅ Song Requests | ✅ Playlist Functionality
+
+🔗 [Live Website](https://hindmusic.netlify.app/) · [GitHub Repository](https://github.com/Manas22-creator/Hind-ke-Sitara)
 
 ---
 
-⚖️ [LegalAdvocate – React-Based Legal Website](https://legaljustice.netlify.app/)
->A static legal services site built in React with dynamic filtering, component reuse, and client-side navigation — optimized for fast loading with Vite.
->Tech: React, React Router, Vite, HTML, CSS, JavaScript
->✅ Fast Performance |✅ Reusable Components | ✅ Responsive UI
+🛡️ RiskCover Insurance – Insurance Website
 
+Freelance web design and development project for RiskCover Insurance.
+
+Designed and developed a responsive insurance website to present insurance services, coverage options, and business information with a professional and user-friendly interface.
+
+Tech: React, JavaScript, HTML, CSS, Node.js
+
+✅ Responsive UI | ✅ Insurance Service Pages | ✅ Lead/Inquiry Forms | ✅ Mobile-Friendly Design
+
+🔗 [Live Website](https://riskcoverinsurance.in/)
+🔒 Client project — source code is private and not publicly available.
+
+⚖️ S & S Law Associates – Legal Services Website
+
+Freelance web design and development project for S & S Law Associates.
+
+Designed and developed a professional legal services website for a law firm, with a clean responsive interface for presenting the firm's legal practice areas, services, and contact information.
+
+Tech: React, Vite, Tailwind CSS, JavaScript
+
+✅ Responsive Legal Website | ✅ Practice Areas | ✅ Professional UI | ✅ Contact Integration
+
+🔗 [Live Website](https://sslawassociates.in/) 
+🔒 Client project — source code is private and not publicly available.
 
 ## 📊 Achievements & Highlights
 
@@ -68,7 +86,8 @@ Here are a few of my featured projects:
 * 📧 Email: [pandeymanas220204@gmail.com](mailto:pandeymanas220204@gmail.com)
 * 🔗 Portfolio: [https://manas22portfolio.netlify.app/](https://manas22portfolio.netlify.app/)
 * 💼 LinkedIn: [https://www.linkedin.com/in/manas-pandey-24684a255/](https://www.linkedin.com/in/manas-pandey-24684a255/)
+* 🐙 GitHub: [https://github.com/Manas22-creator](https://github.com/Manas22-creator)
 
 ---
 
-Thanks for visiting my GitHub profile! Feel free to explore my repositories, contribute, or connect with me.
+⭐ Thanks for visiting my GitHub profile! Feel free to explore my repositories and projects, or connect with me for collaboration and freelance opportunities.
