@@ -31,44 +31,32 @@ I build responsive, user-focused websites and full-stack web applications using 
 
 A selection of my real-world freelance client projects and personal web applications.
 
-🎵 [Hind Ke Sitara – A Music Web App]
-
 🎵 Hind Ke Sitara – Music Web App
 
 A full-stack music application that allows users to play and request songs, with authentication and music management functionality.
-
 Tech: HTML, CSS, JavaScript, Node.js, MongoDB
-
 ✅ Login/Signup | ✅ Music Streaming | ✅ Song Requests | ✅ Playlist Functionality
 
-🔗 [Live Website](https://hindmusic.netlify.app/) · [GitHub Repository](https://github.com/Manas22-creator/Hind-ke-Sitara)
+🔗 [Live Website](https://hind-ke-sitara-frontend.onrender.com/)             
+· [GitHub Repository](https://github.com/Manas22-creator/Hind-ke-Sitara)
 
 ---
 
 🛡️ RiskCover Insurance – Insurance Website
-
 Freelance web design and development project for RiskCover Insurance.
-
 Designed and developed a responsive insurance website to present insurance services, coverage options, and business information with a professional and user-friendly interface.
-
 Tech: React, JavaScript, HTML, CSS, Node.js
-
 ✅ Responsive UI | ✅ Insurance Service Pages | ✅ Lead/Inquiry Forms | ✅ Mobile-Friendly Design
-
-🔗 [Live Website](https://riskcoverinsurance.in/)
+🔗 [Live Website](https://riskcoverinsurance.in/)      
 🔒 Client project — source code is private and not publicly available.
 
 ⚖️ S & S Law Associates – Legal Services Website
-
 Freelance web design and development project for S & S Law Associates.
-
 Designed and developed a professional legal services website for a law firm, with a clean responsive interface for presenting the firm's legal practice areas, services, and contact information.
-
 Tech: React, Vite, Tailwind CSS, JavaScript
-
 ✅ Responsive Legal Website | ✅ Practice Areas | ✅ Professional UI | ✅ Contact Integration
 
-🔗 [Live Website](https://sslawassociates.in/) 
+🔗 [Live Website](https://sslawassociates.in/)          
 🔒 Client project — source code is private and not publicly available.
 
 ## 📊 Achievements & Highlights
