@@ -51,11 +51,13 @@ Tech: React, JavaScript, HTML, CSS, Node.js
 🔗 [Live Website](https://riskcoverinsurance.in/)      
 🔒 Client project — source code is private and not publicly available.
 
+---
+
 ⚖️ S & S Law Associates – Legal Services Website
 Freelance web design and development project for S & S Law Associates.
 Designed and developed a professional legal services website for a law firm, with a clean responsive interface for presenting the firm's legal practice areas, services, and contact information.
-Tech: React, Vite, Tailwind CSS, JavaScript                                                                                               
-✅ Responsive Legal Website | ✅ Practice Areas | ✅ Professional UI | ✅ Contact Integration                                  
+Tech: Next.js, JavaScript, Node.js, MongoDB, Tailwind CSS
+✅ Responsive Legal Website | ✅ Practice Areas | ✅ Professional UI | ✅ Contact Integration                            
                                                
 🔗 [Live Website](https://sslawassociates.in/)          
 🔒 Client project — source code is private and not publicly available.
@@ -72,9 +74,9 @@ Tech: React, Vite, Tailwind CSS, JavaScript
 
 📫 Contact Me
 
-* 📧 Email: [pandeymanas220204@gmail.com](mailto:pandeymanas220204@gmail.com)
+* 📧 Email: [manaswork02@gmail.com](mailto:manaswork02@gmail.com)
 * 🔗 Portfolio: [https://manas22portfolio.netlify.app/](https://manas22portfolio.netlify.app/)
-* 💼 LinkedIn: [https://www.linkedin.com/in/manas-pandey-24684a255/](https://www.linkedin.com/in/manas-pandey-24684a255/)
+* 💼 LinkedIn: [https://www.linkedin.com/in/manas-pandey-developer/](https://www.linkedin.com/in/manas-pandey-developer/)
 * 🐙 GitHub: [https://github.com/Manas22-creator](https://github.com/Manas22-creator)
 
 ---
